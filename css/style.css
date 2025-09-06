@@ -454,6 +454,8 @@ textarea.input {
 }
 
 .header-logo .logo img {
+    width: 169px;
+    height: 69px;
   display: block;
 }
 
@@ -952,7 +954,7 @@ textarea.input {
 }
 
 .product .product-body .product-rating>i.fa-star {
-  color: #ef233c;
+  color: #0099d1;
 }
 
 .product .product-body .product-rating:after {
@@ -1041,7 +1043,7 @@ textarea.input {
   border: 2px solid transparent;
   height: 40px;
   padding: 0 30px;
-  background-color: #ef233c;
+  background-color: #0099d1;
   color: #FFF;
   text-transform: uppercase;
   font-weight: 700;
@@ -1162,6 +1164,7 @@ textarea.input {
 }
 
 .products-slick .product.slick-slide {
+  border-radius: 10px;
   margin: 15px;
 }
 
@@ -1535,7 +1538,7 @@ textarea.input {
   border: 2px solid transparent;
   height: 40px;
   padding: 0 30px;
-  background-color: #ef233c;
+  background-color: #0099d1;
   color: #FFF;
   text-transform: uppercase;
   font-weight: 700;
